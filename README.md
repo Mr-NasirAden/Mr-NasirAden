@@ -14,8 +14,8 @@ As a seasoned data scientist, I wield the power of algorithms to unravel complex
 - The intersection of data science and artificial intelligence for real-world applications.
 
 ### 🌐 Connect with me:
-Github: 
-Medium: https://medium.com/@nasir.aden93
+- Github: 
+- Medium: https://medium.com/@nasir.aden93
 
 
 # 💻 Tech Stack:
